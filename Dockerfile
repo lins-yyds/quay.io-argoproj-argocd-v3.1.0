@@ -1,0 +1,1 @@
+FROM quay.io/argoproj/argocd:v3.1.0
